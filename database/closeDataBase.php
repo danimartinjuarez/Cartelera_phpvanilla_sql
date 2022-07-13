@@ -1,0 +1,2 @@
+<?php
+$conection = null;
